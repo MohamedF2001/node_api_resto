@@ -4,6 +4,7 @@
   "description": "connexion inscription des utilisteurs",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Abdoul Zakiou SOUMANOU",
